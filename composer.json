@@ -2,6 +2,7 @@
     "name": "betteryourweb/framework",
     "description": "Base Framework for Heru",
     "license": "MIT",
+    "version": "0.0.1",
     "authors": [{
         "name": "Derek Williams",
         "email": "betteryourweb@gmail.com"
