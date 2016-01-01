@@ -5,7 +5,7 @@ namespace Betteryourweb\Framework\Contracts;
 
 use Betteryourweb\Framework\Application;
 
-interface ServiceProviderContact
+interface ServiceProviderContract
 {
     /**
      * Registers services on the given app.
