@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Betteryourweb\\Framework": "src/Framework"
+            "Betteryourweb\\Framework\\": "src/Framework/"
         }
     }
 }
