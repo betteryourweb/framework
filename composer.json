@@ -26,5 +26,11 @@
         "psr-4": {
             "Betteryourweb\\Framework\\": "src/Framework/"
         }
-    }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.0.x-dev"
+        }
+    },
+    "minimum-stability": "dev"
 }
